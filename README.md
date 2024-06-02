@@ -4,7 +4,7 @@
 
 Two sample inputs are provided, ex1 and ex2. Sample outputs for ex1 presented in .out files. 
 
-**To Run:** 
+**To Run:**  
 3 arguments:  
 * **.var file:** contains variables and their domains
 * **.con file:** specified constraints
